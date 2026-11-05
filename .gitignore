@@ -1,0 +1,7 @@
+.streamlit/
+.env
+__pycache__/
+*.pyc
+venv/
+app_pages/__pycache__/
+utils/__pycache__/
